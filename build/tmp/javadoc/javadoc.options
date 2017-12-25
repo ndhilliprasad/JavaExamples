@@ -1,0 +1,7 @@
+-classpath '/home/dhilli/codebase/Jdbc/build/classes/main:/home/dhilli/codebase/Jdbc/build/resources/main:/home/dhilli/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/8.0.8-dmr/2b1c562057c48d99ac71d1dea7c8ccebe1e43812/mysql-connector-java-8.0.8-dmr.jar'
+-d '/home/dhilli/codebase/Jdbc/build/docs/javadoc'
+-doctitle 'Jdbc API'
+-quiet 
+-windowtitle 'Jdbc API'
+'/home/dhilli/codebase/Jdbc/src/main/java/Library.java'
+'/home/dhilli/codebase/Jdbc/src/main/java/com/harini/jdbc/MyFirstJdbc.java'

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
+	<classpathentry path="bin" kind="output"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8/"/>
+	<classpathentry sourcepath="/home/dhilli/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/8.0.8-dmr/179ac56e8830746c39254c62ffc49c1eb724a840/mysql-connector-java-8.0.8-dmr-sources.jar" kind="lib" path="/home/dhilli/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/8.0.8-dmr/2b1c562057c48d99ac71d1dea7c8ccebe1e43812/mysql-connector-java-8.0.8-dmr.jar"/>
+</classpath>
